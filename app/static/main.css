@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    padding: 10px;
+    background-color: bisque;
+}
+
+#footer {
+    padding: 20px;
+    background: bisque;
+    align-content: center;
+}
+
+.container {
+    width: 80%;
+    margin: 0px auto;
+}
+
+.content {
+    width: 335px;
+    margin: 5px auto;
+    border: 1px solid #cecece;
+    border-radius: 5px;
+    min-height: 400px;
+}
+.imgs {
+
+    border-radius: 6px;
+    color: #000000;
+    display: inline-block;
+    padding: 24px 15px;
+    text-align: center;
+    margin: 0 1.5% 24px 1.5%;
+    width: 100%;
+}
+
+
+#edit {
+    width: auto;
+    background-color: #cecece;
+
+}
